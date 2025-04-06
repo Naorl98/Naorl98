@@ -4,7 +4,7 @@
 <p align="center"><em>“Driven by passion, fueled by curiosity — I turn ideas into clean, efficient code.”</em></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naorladani&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Naorl98&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -36,13 +36,13 @@ Tools:        Git | VS Code
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naorladani&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naorl98&show_icons=true&theme=dracula" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorladani&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naorl98&layout=compact&theme=gruvbox" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=naorladani&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Naorl98&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naorladani&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Naorl98&theme=react-dark" alt="Activity Graph"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@ Tools:        Git | VS Code
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:naorlad98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-naorlad98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -70,6 +70,31 @@ Tools:        Git | VS Code
 🚀 and always push to **grow, develop, and evolve** professionally.  
 I’m driven, motivated, and hungry to make an impact!
 
+> 🧠 _“The best way to predict the future is to create it.”_
+
 ---
 
-> 🧠 _“The best way to predict the future is to create it.”_
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Naorl98/drone_3D" target="_blank">
+    <img src="https://img.shields.io/badge/Drone_3D-3D Drone Simulator-blueviolet?style=for-the-badge&logo=github" />
+  </a><br><br>
+  <a href="https://github.com/Naorl98/FairAllocation" target="_blank">
+    <img src="https://img.shields.io/badge/FairAllocation-Fair Division Algorithm-teal?style=for-the-badge&logo=github" />
+  </a><br><br>
+  <a href="https://github.com/Naorl98/landing_pages" target="_blank">
+    <img src="https://img.shields.io/badge/Landing_Pages-Auto Web Generator-lightgreen?style=for-the-badge&logo=github" />
+  </a><br><br>
+  <a href="https://github.com/Naorl98/Formula_Sheet" target="_blank">
+    <img src="https://img.shields.io/badge/Formula_Sheet-Smart PDF Summarizer-orange?style=for-the-badge&logo=github" />
+  </a><br><br>
+  <a href="https://github.com/Naorl98/EasyStudy" target="_blank">
+    <img src="https://img.shields.io/badge/EasyStudy-Study Planner-yellow?style=for-the-badge&logo=github" />
+  </a><br><br>
+  <a href="https://github.com/Naorl98/Jenkins-Container" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins_Container-DevOps Setup-red?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
