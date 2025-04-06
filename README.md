@@ -38,8 +38,7 @@ Tools:        Git | VS Code
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naorl98&layout=compact&theme=gruvbox" alt="Top Languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Naorl98&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Naorl98&theme=react-dark" alt="Activity Graph"/>
+
 </p>
 
 ---
