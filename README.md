@@ -8,7 +8,9 @@
 
 ### 🎓 About Me
 
-- 👨‍🎓 Computer Science B.Sc. graduate  
+- 👨‍🎓 Computer Science B.Sc. graduate
+- 👨‍🎓 DevOps Basic Course graduate  
+
 - 👨‍🍳 Cooking enthusiast  
 - 🏋️ Loves fitness  
 - 💻 Passionate about coding  
