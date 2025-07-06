@@ -27,7 +27,7 @@ Languages:    Python | Java | C | Html | Css | C#
 Frameworks:   FastAPI | Flask
 DevOps:       Docker | Jenkins | Bash
 Platforms:    Linux | Ubuntu
-Tools:        Git | VS Code
+Tools:        Git | VS Code | UiPath
 ```
 
 ---
