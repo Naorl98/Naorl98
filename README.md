@@ -23,7 +23,7 @@
 ### 🧰 Tech Stack & Tools
 
 ```txt
-Languages:    Python | Java | C
+Languages:    Python | Java | C | Html | Css | C#
 Frameworks:   FastAPI | Flask
 DevOps:       Docker | Jenkins | Bash
 Platforms:    Linux | Ubuntu
