@@ -3,12 +3,11 @@
 
 <p align="center"><em>“Driven by passion, fueled by curiosity — I turn ideas into clean, efficient code.”</em></p>
 
-<h1 align="center">🌐<span style="color:#4F8A8B;"> Visit My Portfolio</span></h1>
 
 <p align="center">
   <a href="https://naorl98.github.io/Portfolio/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Visit%20My%20Portfolio-lightblue?style=for-the-badge&logoColor=black&color=lightblue&labelColor=lightblue"
+      src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-lightblue?style=for-the-badge&logoColor=black&color=lightblue&labelColor=lightblue"
       alt="Portfolio Badge"
       style="height:60px; transition: transform 0.3s ease; border-radius: 10px;"
       onmouseover="this.style.transform='scale(1.15) rotate(1deg)'"
