@@ -3,6 +3,8 @@
 
 <p align="center"><em>“Driven by passion, fueled by curiosity — I turn ideas into clean, efficient code.”</em></p>
 
+<h1 align="center">🌐<span style="color:#4F8A8B;"> Visit My Portfolio</span></h1>
+
 <p align="center">
   <a href="https://naorl98.github.io/Portfolio/" target="_blank">
     <img 
