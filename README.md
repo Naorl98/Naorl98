@@ -3,10 +3,11 @@
 
 <p align="center"><em>“Driven by passion, fueled by curiosity — I turn ideas into clean, efficient code.”</em></p>
 
+## 🌐 Visit My Portfolio
 
- ### <a href="https://naorl98.github.io/Portfolio/" target="_blank">
-###  <img src="https://img.shields.io/badge/Porfolio-teal?style=for-the-badge&logo=github" />
- ### </a>
+<a href="https://naorl98.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-%23007ACC?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 
 
