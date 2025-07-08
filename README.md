@@ -6,10 +6,9 @@
 <h1 align="center">🌐<span style="color:#4F8A8B;"> Visit My Portfolio </span></h1>
 <p align="center">
   <a href="https://naorl98.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2300BFA6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-lightblue?style=for-the-badge&logoColor=black&color=lightblue&labelColor=lightblue" alt="Portfolio Badge" />
   </a>
 </p>
-
 ---
 
 ### 🎓 About Me
