@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://naorl98.github.io/Portfolio/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Visit%20My%20Portfolio-lightblue?style=for-the-badge&logoColor=black&color=lightblue&labelColor=lightblue" 
+      src="https://img.shields.io/badge/%20My%20Portfolio-lightblue?style=for-the-badge&logoColor=black&color=lightblue&labelColor=lightblue" 
       alt="Portfolio Badge"
       style="height:60px;"
     />
