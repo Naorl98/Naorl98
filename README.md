@@ -5,12 +5,6 @@
 
 ## 🌐 Visit My Portfolio
 
-<a href="https://naorl98.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-%23007ACC?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<h2 align="center🌐 Explore My Portfolio</h2>
-
 <p align="center">
   <a href="https://naorl98.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2300BFA6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
