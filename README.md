@@ -6,6 +6,9 @@
 
 ### Porfolio
   <a href="https://naorl98.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Porfolio-teal?style=for-the-badge&logo=github" />
+  </a>
+
 
 
 ---
